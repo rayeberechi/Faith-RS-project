@@ -4,18 +4,14 @@ This is a Simple website project showcasing my work and social media links. It i
 
 ## Features
 
-- **Responsive Navbar**: Links to Home, Latest, Category, Services, and Contact.
-- **Search Bar**: A functional search input.
-- **Introduction Section**: Includes a personal greeting and a short bio with buttons for "About Me" and "Follow Me".
-- **Personal Image**: Displays my photo alongside the introduction.
-- **Animated Text**: The text "Frontend Developer" is animated with a typing effect.
-- **Footer with Social Links**: Includes links to social platforms like Facebook, Twitter, LinkedIn, and Pinterest using FontAwesome icons.
+- Header with a logo, a navigation menu and a search bar.
+- Introduction section and image
+- Footer includes links to social platforms with icons from FontAwesome'
 
 ## Technologies Used
 
-- **HTML5**: Structuring the web content.
-- **CSS3**: For styling and layout design.
-- **FontAwesome**: For icons used in navigation and footer.
+- HTML
+- CSS
 
 ## How to Use
 
@@ -29,7 +25,8 @@ This is a Simple website project showcasing my work and social media links. It i
 - `styles.css`: Contains the CSS styles for the website's layout, animations, and responsiveness.
 
 ## Credits
-- **Author**: Faithy Raymond.
-- **Tutor**: Blackadam, Web3 Bridge
-
-
+1. **Author**: Faithy Raymond.
+2. **Tutor**: Blackadam, Web3 Bridge
+3. **Resource Source**:
+- Fontawesome (icons)
+- Cloudinary (images)
